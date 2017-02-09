@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404087354579",
+    "project_id": "firebase-webesdi"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404087354579:android:8ccc0ba09b92c434",
+        "android_client_info": {
+          "package_name": "com.example.usuario.webesdi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404087354579-mgpcacpkd5pkjvom811mi14gsae8v55j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.usuario.webesdi",
+            "certificate_hash": "A4C55EEC364B928A7CED37872BF3972A5E77C951"
+          }
+        },
+        {
+          "client_id": "404087354579-n7s522o5romn191njsoloh770jimcbck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkn3D8OCmhEDA41C05AROEr-dL4mkcH88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
